@@ -16,7 +16,7 @@ function setup() {
 }
 
 function draw() {
-  clear(); // mantiene transparencia real// negro con toque café oscuro
+  clear(); // mantiene transparencia real
   
   drawFrame();
   updatePoints();
